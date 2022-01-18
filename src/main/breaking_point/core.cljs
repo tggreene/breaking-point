@@ -1,5 +1,6 @@
 (ns breaking-point.core
   (:require
+   goog.object
    [re-frame.core :as rf]
    [re-frame-fx.dispatch]))
 
